@@ -9,3 +9,14 @@ C:\Users\user\Desktop\Corso\helloworld\helloworld\obj\Debug\netcoreapp3.0\hellow
 C:\Users\user\Desktop\Corso\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfo.cs
 C:\Users\user\Desktop\Corso\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.dll
 C:\Users\user\Desktop\Corso\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.pdb
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\obj\Debug\netcoreapp3.0\helloworld.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\obj\Debug\netcoreapp3.0\helloworld.dll
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\obj\Debug\netcoreapp3.0\helloworld.pdb
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\bin\Debug\netcoreapp3.0\helloworld.exe
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\bin\Debug\netcoreapp3.0\helloworld.deps.json
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\bin\Debug\netcoreapp3.0\helloworld.runtimeconfig.json
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\bin\Debug\netcoreapp3.0\helloworld.runtimeconfig.dev.json
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\bin\Debug\netcoreapp3.0\helloworld.dll
+C:\Users\user\Desktop\GitHub\hello-world\helloworld\bin\Debug\netcoreapp3.0\helloworld.pdb
